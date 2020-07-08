@@ -6,7 +6,7 @@ script recieves requested port as execution argument.
 
 **Running instructions:** run the script and access server through web browser by entering the URL:
 
-\<serverIP>:\<serverPORT>/\<filePath>
+\<serverIP>:\<serverPORT>/\<filePath>\
 for example: 127.0.0.1:5402/c/home.html
 
 if no filepath is givn, server will open 'index.html' page.
