@@ -5,6 +5,7 @@ files in 'files' directory represent web pages (url is according to file path ex
 script recieves requested port as execution argument.
 
 **Running instructions:** run the script and access server through web browser by entering the URL:
+
 \<serverIP>:\<serverPORT>/\<filePath>
 for example: 127.0.0.1:5402/c/home.html
 
