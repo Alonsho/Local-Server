@@ -1,4 +1,4 @@
-# Local-Server
+# Local-Web-Server
 python implementation of a simple web server
 
 files in 'files' directory represent web pages (url is according to file path excluding 'files').\
